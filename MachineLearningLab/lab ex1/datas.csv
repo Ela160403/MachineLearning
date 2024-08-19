@@ -1,0 +1,11 @@
+id,first,last,gender,Marks,selected
+1,Leone,Debrci,Female,50,TRUE
+2,Romola,Phinnessy,Female,60,FALSE
+3,Geri,Prium,Male,65,FALSE
+4,Sandy,Doveston,Female,95,FALSE
+5,Jacenta,Janisk,Female,31,TRUE
+6,Diane-marie,Medhurst,Female,45,TRUE
+7,Austen,Pool,Male,45,TRUE
+8,Vanya,Teffrey,Male,70,FALSE
+9,Giordano,Elloy,Male,36,FALSE
+10,Rozele,Fawcett,Female,50,FALSE
